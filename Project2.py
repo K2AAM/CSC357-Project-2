@@ -1,10 +1,10 @@
 import socket
 import time
 
-# Define server IP, port, and your userID
+
 SERVER_IP = '75.69.29.126'
 SERVER_PORT = 2956
-USER_ID = 'myUserID12345'  
+USER_ID = 'amore020'  
 MAX_RETRIES = 5
 
 def udp_client():
@@ -29,10 +29,10 @@ def udp_client():
         except socket.timeout:
             print("Timeout - No response received from server")
             retries += 1 
-            time.sleep(1)  # Small delay to prevent spamming
+            time.sleep(1)  # Small delay 
 
         finally:
-            udp_socket.close() # Close the socket only after recieving response or timeout
+            udp_socket.close() # Close the socket only after recieving a response or timeout
 
 if __name__ == "__main__":
     udp_client()
