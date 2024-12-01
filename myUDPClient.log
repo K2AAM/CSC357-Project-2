@@ -1,0 +1,55 @@
+Attempt 1: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Received raw bytes: b'amore020:2024-12-01 16:29:33.406660:(69.204.97.12,53797):5734'
+Received response from server: amore020:2024-12-01 16:29:33.406660:(69.204.97.12,53797):5734
+Attempt 1: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Received raw bytes: b'amore020:2024-12-01 16:29:33.464483:(69.204.97.12,53798):1819'
+Received response from server: amore020:2024-12-01 16:29:33.464483:(69.204.97.12,53798):1819
+Attempt 1: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Received raw bytes: b'amore020:2024-12-01 16:29:33.501859:(69.204.97.12,53799):7724'
+Received response from server: amore020:2024-12-01 16:29:33.501859:(69.204.97.12,53799):7724
+Attempt 1: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Timeout - No response received from server
+Attempt 2: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Received raw bytes: b'amore020:2024-12-01 16:29:39.553568:(69.204.97.12,56758):4945'
+Received response from server: amore020:2024-12-01 16:29:39.553568:(69.204.97.12,56758):4945
+Attempt 2: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Received raw bytes: b'amore020:2024-12-01 16:29:39.602883:(69.204.97.12,56759):7834'
+Received response from server: amore020:2024-12-01 16:29:39.602883:(69.204.97.12,56759):7834
+Attempt 1: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Timeout - No response received from server
+Attempt 2: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Received raw bytes: b'amore020:2024-12-01 16:51:22.514040:(69.204.97.12,53479):5370'
+Received response from server: amore020:2024-12-01 16:51:22.514040:(69.204.97.12,53479):5370
+Attempt 2: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Received raw bytes: b'amore020:2024-12-01 16:51:22.571348:(69.204.97.12,53480):5551'
+Received response from server: amore020:2024-12-01 16:51:22.571348:(69.204.97.12,53480):5551
+Attempt 2: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Timeout - No response received from server
+Attempt 3: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Received raw bytes: b'amore020:2024-12-01 16:51:28.635836:(69.204.97.12,55952):1503'
+Received response from server: amore020:2024-12-01 16:51:28.635836:(69.204.97.12,55952):1503
+Attempt 3: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Timeout - No response received from server
+Attempt 4: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Received raw bytes: b'amore020:2024-12-01 16:51:34.695874:(69.204.97.12,50409):1598'
+Received response from server: amore020:2024-12-01 16:51:34.695874:(69.204.97.12,50409):1598
+Attempt 4: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Timeout - No response received from server
+Attempt 5: Sending USER_ID 'amore020' to server...
+Sending raw bytes: b'amore020'
+Received raw bytes: b'amore020:2024-12-01 16:51:40.761007:(69.204.97.12,51965):9313'
+Received response from server: amore020:2024-12-01 16:51:40.761007:(69.204.97.12,51965):9313
