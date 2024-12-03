@@ -40,9 +40,9 @@ def udp_client():
             udp_socket.close() 
 
 if __name__ == "__main__":
-    # Redirect standard output to a log file (append mode)
+    # Redirect output to log file
     with open('myUDPClient.log', 'a') as f:
         import sys
-        sys.stdout = f  # Redirect print statements to the file
+        sys.stdout = f  # Redirect print statements to the same log file
 
         udp_client()
